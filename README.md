@@ -16,6 +16,18 @@
 * クッ社の有料会員になるのもアリだが、無料で良いレシピを公開しているサイトが最近増えている
 * 他にも、[Twitter](https://twitter.com/)などのSNSで料理研究家の方がレシピを公開していたりする
 
+## レシピ
+
+ToDo: レシピ内のタグを拾って自動でインデックスを生成するようにしたい
+
+### 沖縄料理
+
+* [チャーシュー(焼豚)](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/Hk4beRnEU)
+
+### 中華料理
+
+* [ゴーヤチャンプルー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/SypgotzNU)
+
 ## 無料で使えるレシピサイト
 
 * [白ごはん.com](https://www.sirogohan.com/)
@@ -32,15 +44,7 @@
 * [リュウジさん](https://twitter.com/ore825?s=20)
 * etc...
 
-## このリポジトリにあるレシピ
+## 技術情報
 
-ToDo: レシピ内のタグを拾って自動でインデックスを生成するようにしたい
-
-### 沖縄料理
-
-* [チャーシュー(焼豚)](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/Hk4beRnEU)
-
-### 中華料理
-
-* [ゴーヤチャンプルー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/SypgotzNU)
-
+* このページは[HackMD](https://hackmd.io/)で管理することを想定しMarkDownで記述されています
+* [GitHub](https://github.com/)と連携しているため、GitHub側でも閲覧が可能です
