@@ -28,6 +28,11 @@ ToDo: レシピ内のタグを拾って自動でインデックスを生成す�
 
 * [ゴーヤチャンプルー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/SypgotzNU)
 
+### 作ってみたいレシピのメモ
+
+* 自家製オイルサーディン
+    * https://oceans-nadia.com/user/22422/recipe/128611
+
 ## 無料で使えるレシピサイト
 
 * [白ごはん.com](https://www.sirogohan.com/)
