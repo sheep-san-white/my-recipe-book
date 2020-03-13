@@ -22,11 +22,11 @@ ToDo: レシピ内のタグを拾って自動でインデックスを生成す�
 
 ### 沖縄料理
 
-* [チャーシュー(焼豚)](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/Hk4beRnEU)
+* [ゴーヤチャンプルー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/SypgotzNU)
 
 ### 中華料理
 
-* [ゴーヤチャンプルー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/SypgotzNU)
+* [チャーシュー(焼豚)](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/Hk4beRnEU)
 
 ### 作ってみたいレシピのメモ
 
