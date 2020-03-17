@@ -27,6 +27,7 @@ ToDo: レシピ内のタグを拾って自動でインデックスを生成す�
 ### 和食
 
 * [豚バラ大根](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/B1sbOw0HU)
+* [白菜の浅漬け](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/HJZboDRHL)
 
 ### 沖縄料理
 
