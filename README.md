@@ -24,6 +24,10 @@ ToDo: レシピ内のタグを拾って自動でインデックスを生成す�
 
 * [ちくわのチーズ巻きスパイス風味](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/B1R4fDCSI)
 
+### 和食
+
+* [豚バラ大根](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/B1sbOw0HU)
+
 ### 沖縄料理
 
 * [ゴーヤチャンプルー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/SypgotzNU)
