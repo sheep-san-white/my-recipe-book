@@ -20,6 +20,10 @@
 
 ToDo: レシピ内のタグを拾って自動でインデックスを生成するようにしたい
 
+### おつまみ
+
+* [ちくわのチーズ巻きスパイス風味](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/B1R4fDCSI)
+
 ### 沖縄料理
 
 * [ゴーヤチャンプルー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/SypgotzNU)
