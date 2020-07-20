@@ -26,6 +26,7 @@ ToDo: レシピ内のタグを拾って自動でインデックスを生成す�
 
 ### 和食
 
+* [至高のチキン南蛮](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/S1eEVZkgP)
 * [豚バラ大根](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/B1sbOw0HU)
 * [イワシの梅煮](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/r17SLKLCL)
 * [白菜の浅漬け](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/HJZboDRHL)
