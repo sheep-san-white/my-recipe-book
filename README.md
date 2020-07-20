@@ -51,11 +51,16 @@ ToDo: レシピ内のタグを拾って自動でインデックスを生成す�
 ### 作ってみたいレシピのメモ
 
 * 自家製オイルサーディン
-    * https://oceans-nadia.com/user/22422/recipe/128611
+    * <https://oceans-nadia.com/user/22422/recipe/128611>
 * 焼き小龍包
-    * https://www.gnavi.co.jp/dressing/article/22113/
+    * <https://www.gnavi.co.jp/dressing/article/22113/>
 * 雲白肉(ウンパイロウ)
-    * https://park.ajinomoto.co.jp/recipe/card/801563/
+    * <https://park.ajinomoto.co.jp/recipe/card/801563/>
+
+### 作ったけどまだメモを書いていないレシピ
+
+* シュクメルリ
+    * <https://macaro-ni.jp/86139>
 
 ## 無料で使えるレシピサイト
 
