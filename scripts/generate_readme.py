@@ -161,7 +161,7 @@ def update_readme(readme_path: Path, recipes_section: str) -> None:
     # マーカー間のコンテンツを置換する
     new_content = (
         content[: start_idx + len(start_marker)]
-        + "\n"
+        + "\n\n"
         + recipes_section
         + content[end_idx:]
     )
