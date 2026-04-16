@@ -30,6 +30,10 @@
 * [白菜の浅漬け](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/HJZboDRHL)
 * [豚バラ大根](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/B1sbOw0HU)
 
+#### おせち
+
+* [いくらの醤油漬け](https://hackmd.io/UZ42vJldQPWbqA4v8IJNDg)
+
 ### 洋食
 
 * [コールスロー](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/HkB9cCzDP)
@@ -45,6 +49,11 @@
 ### 中華
 
 * [チャーシュー(焼豚)](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/Hk4beRnEU)
+* [丸鶏のスープ(鶏湯、ジータン)](https://hackmd.io/LbW-EZPLRuSONpwBz_SPGQ)
+
+### アジアン
+
+* [カオマンガイ](https://hackmd.io/an0qChzpRnmNzgtRQc_c9Q?view)
 
 ### お酒
 
