@@ -48,6 +48,7 @@
 
 ### 中華
 
+* [しそ餃子](https://hackmd.io/Tk6fsZjvQrGetUiEjWOqOw)
 * [チャーシュー(焼豚)](https://hackmd.io/@GyTP6pUqQkKQUZiFBNIT2Q/Hk4beRnEU)
 * [丸鶏のスープ(鶏湯、ジータン)](https://hackmd.io/LbW-EZPLRuSONpwBz_SPGQ)
 
