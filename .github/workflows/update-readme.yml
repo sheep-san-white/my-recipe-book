@@ -1,0 +1,48 @@
+name: Update README recipe index
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '**.md'
+      - 'categories.yml'
+      - '.github/workflows/update-readme.yml'
+      - 'scripts/generate_readme.py'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5  # v4
+
+      - uses: astral-sh/setup-uv@e58605a9b6da7c637471fab8847a5e5a6b8df081  # v5
+
+      - name: Generate README recipe index
+        id: generate
+        run: |
+          output=$(uv run scripts/generate_readme.py 2>&1)
+          echo "$output"
+          {
+            echo "messages<<EOF"
+            echo "$output"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@22a9089034f40e5a961c8808d113e2c98fb63676  # v7
+        with:
+          branch: auto/update-readme
+          title: READMEのレシピ一覧を更新する
+          draft: true
+          commit-message: READMEのレシピ一覧を自動更新する
+          delete-branch: true
+          body: |
+            ## 概要
+
+            レシピファイルの変更を検知し、READMEのレシピ一覧を自動更新しました。
+
+            ${{ steps.generate.outputs.messages && format('## hackmd_url 未設定のレシピ\n\n以下のレシピは `hackmd_url` が設定されていないため、一覧に含まれていません。\n\n```\n{0}\n```', steps.generate.outputs.messages) || '✅ すべてのレシピが反映されています。' }}
